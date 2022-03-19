@@ -1,0 +1,165 @@
+a{
+     color:black;
+     text-decoration: none;
+}
+.header{
+     display: flex;
+     justify-content: space-between;
+     padding: 20px;
+     background: white;
+     color: #fff;
+     font-family: Rubik;
+}
+.header_section{
+     display: flex;
+     align-items: center;
+     margin-right: 130px;
+     font-family: Rubik;
+}
+
+.header_item{
+     padding: 10px 100px;
+     font-size: 15px;
+
+     font-family: Rubik;
+}
+.header_item1{
+     font-weight: bold;
+     font-size: 50px;
+}
+.header_item3{
+     padding: 10px 50px;
+}
+.slaider{
+     padding: 10px 0px;
+}
+.menu{
+     color: #1a1a1a;
+     display: flex;
+     justify-content: space-between;
+     padding: 40px 300px;
+     font-size: 15px;
+     font-family: Helvetica;
+
+}
+.footer_item1{
+     text-decoration: underline;
+}
+.text{
+     display: flex;
+     justify-content: space-between;
+     padding: 15px 300px;
+     font-family: Rubik;
+     color: #1a1a1a;
+}
+.textt{
+     display: flex;
+     justify-content: space-between;
+     padding: 0px 300px;
+     font-family: Rubik;
+     color: #1a1a1a;
+}
+.textt1{
+     padding: 0px 200px;
+
+}
+.text1{
+     margin-left: 140px;
+}
+.img{
+     display: flex;
+     justify-content: space-between;
+     padding: 0px 400px;
+     margin-left: 100px;
+
+}
+.imgg{
+     display: flex;
+     justify-content: space-between;
+     padding: 20px 400px;
+     margin-left: 100px;
+
+}
+.footer1{
+
+     padding: 20px;
+     background:#1a1a1a; 
+     color: white;
+     font-family: Rubik;
+     font-weight: bold;
+     align-items: left;
+}
+.footer2{
+
+     padding: 20px;
+     background:#1a1a1a; 
+     color: white;
+     font-family: Rubik;
+     font-weight: bold;
+     text-align: center;
+
+}
+.footer3{
+
+     padding: 20px;
+     background:#1a1a1a; 
+     color: white;
+     font-family: Rubik;
+     font-weight: bold;
+     text-align: right;
+}
+.arrow{
+     text-align: center;
+}
+.footer_item_headerButton2:hover a{
+     color: red;
+     text-decoration: underline;
+}
+.footer_item:hover a{
+     color: red;
+     text-decoration: underline;
+}
+.menu_dropdown {
+     position: absolute;
+  border-bottom: 1px solid #000000;
+  border-top: 1px solid #000000;
+  border-left: 1px solid #000000;
+  border-right: 1px solid #000000;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: none;
+  font-size: 14px;
+  margin-left: -50px;
+}
+.punkt_1:hover a{
+     color: red;
+     text-decoration: underline;
+}
+.punkt_2:hover a{
+     color: red;
+     text-decoration: underline;
+}
+.punkt_3:hover a{
+     color: red;
+     text-decoration: underline;
+}
+.menu_dropdown p {
+  border-bottom: 1px solid #000000;
+}
+.text1:hover a{
+     color: red;
+     text-decoration: underline;
+}
+.textt1:hover a{
+     color: red;
+     text-decoration: underline;
+}
+.text2:hover a{
+     color: red;
+     text-decoration: underline;
+}
+.textt2:hover a{
+     color: red;
+     text-decoration: underline;
+}
